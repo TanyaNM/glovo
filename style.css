@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(235, 198, 198);
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+header {
+    background-color: #B67878;
+    padding: 1px;
+}
+
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h2 {
+text-align:center;
+}
+
+p {
+    font-size: 20px;
+    text-align:center;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+ background-color: #B67878; 
+ padding: 1px; 
+}
+
+footer{
+     display: flex;
+     justify-content: center;
+     padding: 25px;
+     margin: 25px;
+}
+
+footer p {
+   margin: 20px;
+}
+footer img{
+    margin: 20px;
+}
+.catalog {
+    width: 870px;
+    height: 700px; 
+    background-color: rgb(235, 198, 198);
+}
+
+.product {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double orange;
+    margin: 40px 0px 40px 80px;
+    background-color: bisque;
+}
